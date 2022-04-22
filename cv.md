@@ -11,8 +11,9 @@ From the skills I can note that at the basic level I study c ++, and also thanks
 <h2>Code examples: </h2>
 <h4>This is the code from my graphic practice on the CodeHs website there, with the help of when it turned out, draw a billiard ball, and now I will throw off the code for you: </h4>
 
+```
 
-`function start(){ 
+function start(){ 
     var ball = new Circle(100);
     var centerX = getWidth() / 2;
     var centerY = getHeight() / 2;
@@ -24,8 +25,8 @@ From the skills I can note that at the basic level I study c ++, and also thanks
     number.setColor(Color.white);
     number.setPosition(centerX - number.getWidth()/2, centerY + number.getHeight()/2);
     add(number);
-}`
-
+}
+```
 
 <h2>Experience:</h2>
 I solved problems while learning c++ on the Coderoces website, as well as on other sites, and also independently created websites.
