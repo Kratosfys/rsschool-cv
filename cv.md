@@ -1,6 +1,6 @@
 <header>CV</header>
 <h1>Tengiz Rasoev</h1>
-<h2>Contact info</h2
+<h2>Contact info</h2>
   <ul>
   <li>GitHub: https://github.com/Kratosfys </li>
   </ul>
