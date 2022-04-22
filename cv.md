@@ -11,7 +11,7 @@ From the skills I can note that at the basic level I study c ++, and also thanks
 <h2>Code examples: </h2>
 <h4>This is the code from my graphic practice on the CodeHs website there, with the help of when it turned out, draw a billiard ball, and now I will throw off the code for you: </h4>
 
-```
+```js
 
 function start(){ 
     var ball = new Circle(100);
