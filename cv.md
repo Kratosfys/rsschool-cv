@@ -51,7 +51,7 @@ function start(){
 <h2 id="experience">Experience:</h2>
 I solved problems while learning c++ on the Coderoces website, as well as on other sites, and also independently created websites.
 <h2 id="education">Education:</h2>
-As for education, I am currently studying IT at the university, as well as improving my <b>HTML</b>\<b>CSS</b>\<b>JS</b> skills.
+As for education, I am currently studying IT at the university, as well as improving my HTML\CSS\JS skills.
 <h2 id="english">English:</h2>
 I know English at B1 level, but I am working on improving it to good conversational English in order to be more sociable and helpful in my work.
 
