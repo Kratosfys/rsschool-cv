@@ -52,13 +52,13 @@ function start(){
 <h2 id="experience">Experience:</h2>
 I solved problems while learning c++ on the Coderoces website, as well as on other sites, and also independently created websites.
 <h2 id="education">Education:</h2>
-As for education, I am currently studying IT at the university, as well as improving my HTML\CSS\JS skills.
+As for education, I am currently studying IT at the university, as well as improving my <b>HTML</b>\<b>CSS</b>\<b>JS</b> skills.
 <h2 id="english">English:</h2>
 I know English at B1 level, but I am working on improving it to good conversational English in order to be more sociable and helpful in my work.
 
 <footer>
   <a href="https://github.com/Kratosfys">GitHub</a> 23 April 2022
   <p style="text-align center" width="100" height="100">
-    <a href="https://rs.school/js-en"/><img border="0" alt="Javascript/Front-end Mentoring Program (in English)" src="https://rs.school/images/rs_school_js.svg"><a/>
+    <a href="https://rs.school/js-en"/><img border="0" alt="Javascript/Front-end Mentoring Program (in English)" src="https://miro.medium.com/max/280/1*v3KpRHTsdIK_91OB8C1jPw.png"><a/>
     </p>
   </footer>
