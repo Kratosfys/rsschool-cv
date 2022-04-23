@@ -8,7 +8,7 @@
       <li><a href="#code-examples">Code Examples</a></li>
       <li><a href="#experience">Experience</a></li>
       <li><a href="#education">Education</a></li>
-      <li><a href="#english"></a></li>
+      <li><a href="#english"><English></a></li>
       </ul>
   </nav>
         
