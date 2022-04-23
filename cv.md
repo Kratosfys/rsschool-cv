@@ -21,10 +21,10 @@
 My goal in life is to become an experienced and good professional in my field, or rather in IT, I have been fond of this topic since childhood, but now there are many opportunities to become the best in the programming industry, and I am ready that I myself will learn everything and improve my skills in programming. My goal is to become a Front-end web developer. 
 <h2 id = "skills">Skills:</h2>
 From the skills I can note that at the basic level I study c ++, and also thanks to the RS School courses I began to pull up the 
-     <ul>
-       <li>JavaScript</li> 
-       <li>HTML</li>
-       <li>CSS</li>
+<ul>
+    <li>JavaScript</li>
+    <li>HTML</li>
+    <li>CSS</li>
   </ul>
   
 <h2 id = "code-examples">Code Examples: </h2>
