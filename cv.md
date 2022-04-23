@@ -4,12 +4,12 @@
 <nav>
   <ul>
     [Contact info](#contact-info) |
-    <li><a href="#summary">Summary</a></li>
-    <li><a href="#skills">Skills</a></li>
-    <li><a href="#code-examples">Code Examples</a></li>
-    <li><a href="#experience">Experience</a></li>
-    <li><a href="#education">Education</a></li>
-    <li><a href="#english">English</a></li>
+    [Summary](#summary) |
+    [Skills](#skills) |
+    [Code Examples](#code-examples) |
+    [Experience](#experience) |
+    [Education](#education) |
+    [English](#english) |
   </ul>
  </nav>
  
