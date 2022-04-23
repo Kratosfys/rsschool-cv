@@ -14,7 +14,7 @@
 
 <h2 id="contact-info">Contact info</h2>
   <ul> 
-  <a href="https://github.com/Kratosfys"><img border="0" alt="GitHub" src="https://miro.medium.com/max/719/1*26XR2RfPsSmFd_Q6EA0SrA.png" width="300" ></a>
+  <a href="https://github.com/Kratosfys"/><img border="0" alt="GitHub" src="https://miro.medium.com/max/719/1*26XR2RfPsSmFd_Q6EA0SrA.png" width="300" ><a/>
   <a href="https://www.linkedin.com/in/tengiz-rasoev-496732238/">
   </ul>
   
