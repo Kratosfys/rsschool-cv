@@ -14,7 +14,7 @@
 
 <h2 id="contact-info">Contact info</h2>
   <ul> 
-  <a href="https://github.com/Kratosfys"><img border="0" alt="GitHub" src="https://miro.medium.com/max/719/1*26XR2RfPsSmFd_Q6EA0SrA.png" width="278" ><a/>
+  <a href="https://github.com/Kratosfys"/><img border="0" alt="GitHub" src="https://miro.medium.com/max/719/1*26XR2RfPsSmFd_Q6EA0SrA.png" width="278" ><a/>
   <a href="https://www.linkedin.com/in/tengiz-rasoev-496732238/"/><img border="0" alt="LinkedIn" src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/01-dsk-e8-v2.png.original.png"  width="300"><a/>
   <a href="https://www.facebook.com/profile.php?id=100009615092297"/><img border="0" alt="Facebook" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvEREl3OZMVP6bbivdohHCaLvg-edHeePPqA&usqp=CAU" width="300"><a/>
   </ul>
