@@ -61,6 +61,6 @@ I know English at B1 level, but I am working on improving it to good conversatio
   <br>
   <a href="https://github.com/Kratosfys">GitHub</a> 23 April 2022
   <p style="text-align:center;">
-    <a href="https://rs.school/js-en"><img {border:0;} alt="Javascript/Front-end  (in English)" src="https://miro.medium.com/max/280/1*v3KpRHTsdIK_91OB8C1jPw.png" ></a>
+    <a href="https://rs.school/js-en"><img {border:0;} alt="Javascript/Front-end  (in English)" src="https://miro.medium.com/max/280/1*v3KpRHTsdIK_91OB8C1jPw.png"></a>
   </p>
   </footer>
