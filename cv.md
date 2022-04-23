@@ -24,11 +24,11 @@ My goal in life is to become an experienced and good professional in my field, o
 <h2 id="skills">Skills:</h2>
 From the skills I can note that at the basic level I study c ++, and also thanks to the RS School courses I began to pull up the 
 
-<br><ul>
+<br>
   <img src="https://www.softfluent.fr/wp-content/uploads/2019/10/javascript.png" alt="JavaScript" width="150"> 
    <br> <img src="https://pixelmechanics.com.sg/wp-content/uploads/2019/06/html5-logo-for-web-development.png" alt="HTML" width="150" >
     <br> <img src="https://miro.medium.com/max/870/1*fC1TiemRWYDWObQUlpAnBg.png" alt="CSS" width="150"> 
-</ul>
+
   
 <h2 id="code-examples">Code Examples: </h2>
 <h4>This is the code from my graphic practice on the CodeHs website there, with the help of when it turned out, draw a billiard ball, and now I will throw off the code for you: </h4>
