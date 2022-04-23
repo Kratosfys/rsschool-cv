@@ -24,10 +24,10 @@ My goal in life is to become an experienced and good professional in my field, o
 <h2 id="skills">Skills:</h2>
 From the skills I can note that at the basic level I study c ++, and also thanks to the RS School courses I began to pull up the 
 
-<ul>
-    <li>JavaScript</li>
-    <li>HTML</li>
-    <li>CSS</li>
+<br><ul>
+  <img src="https://www.softfluent.fr/wp-content/uploads/2019/10/javascript.png" alt="JavaScript" width="150"> 
+   <br> <img src="https://pixelmechanics.com.sg/wp-content/uploads/2019/06/html5-logo-for-web-development.png" alt="HTML" width="150" >
+    <br> <img src="https://miro.medium.com/max/870/1*fC1TiemRWYDWObQUlpAnBg.png" alt="CSS" width="150"> 
 </ul>
   
 <h2 id="code-examples">Code Examples: </h2>
