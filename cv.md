@@ -2,7 +2,6 @@
 <h1>Tengiz Rasoev</h1>
 
 <nav>
-  
     [Contact info](#contact-info) |
     [Summary](#summary) |
     [Skills](#skills) |
@@ -10,7 +9,6 @@
     [Experience](#experience) |
     [Education](#education) |
     [English](#english) |
-  
  </nav>
  
 <h2 id="contact-info">Contact info</h2>
