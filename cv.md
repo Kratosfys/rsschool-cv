@@ -1,9 +1,9 @@
 <header>CV</header>
 <h1>Tengiz Rasoev</h1>
-###### Navigation
+
 <nav>
   <ul>
-    <li><a href="#contact-info">Contact info</a></li>
+    [Contact info](#contact-info) |
     <li><a href="#summary">Summary</a></li>
     <li><a href="#skills">Skills</a></li>
     <li><a href="#code-examples">Code Examples</a></li>
