@@ -2,13 +2,15 @@
 <h1>Tengiz Rasoev</h1>
   <nav>
     <ul>
-    <li>[Contact info](#contact-info) | </li>
-    <li>[Summary](#summary) | </li>
-    <li>[Skills](#skills) | </li>
-    <li>[Code Examples](#code-examples) | </li>
-    <li>[Experience](#experience) | </li>
-    <li>[Education](#education) | </li>
-    <li>[English](#english) | </li>
+      <li><a href="#contact-info">Contact info</a></li>
+      <li><a href="#summary">Summary</a></li>
+      <li><a href="#skills">Skills</a></li>
+      <li><a href="#code-examples">Code Examples</a></li>
+      <li><a href="#experience">Experience</a></li>
+      <li><a href="#education">Education</a></li>
+      <li><a href="#english"></a></li>
+      </ul>
+  </nav>
         
  
  
