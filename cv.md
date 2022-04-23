@@ -15,10 +15,10 @@
  
  
 <h2 id="contact-info">Contact info</h2>
-  <ul>
- 
+  <ul> 
   <a href="https://github.com/Kratosfys"/><img border="0" alt="GitHub" src="https://miro.medium.com/max/719/1*26XR2RfPsSmFd_Q6EA0SrA.png"></a>
   </ul>
+  
   <h2 id="summary">Summary: </h2>
 My goal in life is to become an experienced and good professional in my field, or rather in IT, I have been fond of this topic since childhood, but now there are many opportunities to become the best in the programming industry, and I am ready that I myself will learn everything and improve my skills in programming. My goal is to become a Front-end web developer. 
 <h2 id="skills">Skills:</h2>
