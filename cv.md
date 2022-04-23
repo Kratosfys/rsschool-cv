@@ -1,15 +1,14 @@
 <header>CV</header>
 <h1>Tengiz Rasoev</h1>
-
-
-    
-    [Contact info](#contact-info) |
-    [Summary](#summary) |
-    [Skills](#skills) |
-    [Code Examples](#code-examples) |
-    [Experience](#experience) |
-    [Education](#education) |
-    [English](#english) |
+  <nav>
+    <ul>
+    <li>[Contact info](#contact-info) | </li>
+    <li>[Summary](#summary) | </li>
+    <li>[Skills](#skills) | </li>
+    <li>[Code Examples](#code-examples) | </li>
+    <li>[Experience](#experience) | </li>
+    <li>[Education](#education) | </li>
+    <li>[English](#english) | </li>
         
  
  
