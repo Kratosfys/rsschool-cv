@@ -11,12 +11,10 @@
       <li><a href="#english">English</a></li>
       </ul>
   </nav>
-        
- 
- 
+
 <h2 id="contact-info">Contact info</h2>
   <ul> 
-  <a href="https://github.com/Kratosfys"/><img border="0" alt="GitHub" src="https://miro.medium.com/max/719/1*26XR2RfPsSmFd_Q6EA0SrA.png"></a>
+  <a href="https://github.com/Kratosfys"/><img border="0" alt="GitHub" src="https://miro.medium.com/max/719/1*26XR2RfPsSmFd_Q6EA0SrA.png"><a/>
   </ul>
   
   <h2 id="summary">Summary: </h2>
