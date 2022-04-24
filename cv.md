@@ -14,9 +14,9 @@
 
 <h2 id="contact-info">Contact info</h2>
    
-  <a href="https://github.com/Kratosfys"><img {border:0;} alt="GitHub" src="https://miro.medium.com/max/719/1*26XR2RfPsSmFd_Q6EA0SrA.png" width="278"></a>
-  <a href="https://www.linkedin.com/in/tengiz-rasoev-496732238/"><img {border:0;} alt="LinkedIn" src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/01-dsk-e8-v2.png.original.png"  width="300"></a>
-  <a href="https://www.facebook.com/profile.php?id=100009615092297"><img {border:0;} alt="Facebook" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvEREl3OZMVP6bbivdohHCaLvg-edHeePPqA&usqp=CAU" width="300"></a>
+  <a href="https://github.com/Kratosfys"><img style="border:0;" alt="GitHub" src="https://miro.medium.com/max/719/1*26XR2RfPsSmFd_Q6EA0SrA.png" width="278"></a>
+  <a href="https://www.linkedin.com/in/tengiz-rasoev-496732238/"><img style="border:0;" alt="LinkedIn" src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/01-dsk-e8-v2.png.original.png"  width="300"></a>
+  <a href="https://www.facebook.com/profile.php?id=100009615092297"><img style="border:0;" alt="Facebook" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvEREl3OZMVP6bbivdohHCaLvg-edHeePPqA&usqp=CAU" width="300"></a>
   
   
   <h2 id="summary">Summary: </h2>
@@ -61,6 +61,6 @@ I know English at B1 level, but I am working on improving it to good conversatio
   <br>
   <a href="https://github.com/Kratosfys">GitHub</a> 23 April 2022
   <p style="text-align:center;">
-    <a href="https://rs.school/js-en"><img {border:0;} alt="Javascript/Front-end  (in English)" src="https://miro.medium.com/max/280/1*v3KpRHTsdIK_91OB8C1jPw.png"></a>
+    <a href="https://rs.school/js-en"><img style="border:0;" alt="Javascript/Front-end  (in English)" src="https://miro.medium.com/max/280/1*v3KpRHTsdIK_91OB8C1jPw.png"></a>
   </p>
   </footer>
