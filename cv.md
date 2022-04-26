@@ -52,7 +52,7 @@ function start(){
 <h2 id="experience">Experience:</h2>
 I solved problems while learning c++ on the Coderoces website, as well as on other sites, and also independently created websites. Other then that here is the project, i have been working on: 
 <ul>
-  <li><a href="https://kratosfys.github.io/rsschool-cv/cv">MY CV</li></a>
+  <li><a href="https://kratosfys.github.io/rsschool-cv/cv">MY CV</a></li>
     </ul>
 <h2 id="education">Education:</h2>
 As for education, I am currently studying IT at the university, as well as improving my HTML\CSS\JS skills.
