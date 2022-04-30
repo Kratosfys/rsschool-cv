@@ -1,3 +1,5 @@
+<html>
+   
 <header>CV</header>
 <h1>Tengiz Rasoev</h1>
   <nav>
@@ -13,11 +15,15 @@
   </nav>
 
 <h2 id="contact-info">Contact info</h2>
-   
+<p style="text-align:center;">
   <a href="https://github.com/Kratosfys"><img style="border:0;" alt="GitHub" src="https://miro.medium.com/max/719/1*26XR2RfPsSmFd_Q6EA0SrA.png" width="278"></a>
+ </p>
+ <p style="text-align:center;">
   <a href="https://www.linkedin.com/in/tengiz-rasoev-496732238/"><img style="border:0;" alt="LinkedIn" src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/01-dsk-e8-v2.png.original.png"  width="300"></a>
+</p> 
+  <p style="text-align:center;">
   <a href="https://www.facebook.com/profile.php?id=100009615092297"><img style="border:0;" alt="Facebook" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvEREl3OZMVP6bbivdohHCaLvg-edHeePPqA&usqp=CAU" width="300"></a>
-  
+  </p>
   
   <h2 id="summary">Summary: </h2>
 My goal in life is to become an experienced and good professional in my field, or rather in IT, I have been fond of this topic since childhood, but now there are many opportunities to become the best in the programming industry, and I am ready that I myself will learn everything and improve my skills in programming. My goal is to become a Front-end web developer. 
@@ -33,21 +39,23 @@ From the skills I can note that at the basic level I study c ++, and also thanks
 <h2 id="code-examples">Code Examples: </h2>
 <h4>This is the code from my graphic practice on the CodeHs website there, with the help of when it turned out, draw a billiard ball, and now I will throw off the code for you: </h4>
 
-```js
-function start(){ 
-    var ball = new Circle(100);
-    var centerX = getWidth() / 2;
-    var centerY = getHeight() / 2;
-    ball.setPosition(centerX, centerY);
-    add(ball); 
-    
-    var number = new Text("8");
-    number.setFont("50pt Arial");
-    number.setColor(Color.white);
-    number.setPosition(centerX - number.getWidth()/2, centerY + number.getHeight()/2);
-    add(number);
-}
-```
+<pre>
+    <code>
+        function start(){ 
+            var ball = new Circle(100);
+            var centerX = getWidth() / 2;
+            var centerY = getHeight() / 2;
+            ball.setPosition(centerX, centerY);
+            add(ball); 
+            
+            var number = new Text("8");
+            number.setFont("50pt Arial");
+            number.setColor(Color.white);
+            number.setPosition(centerX - number.getWidth()/2, centerY + number.getHeight()/2);
+            add(number);
+        }
+    </code>
+  </pre>
 
 <h2 id="experience">Experience:</h2>
 I solved problems while learning c++ on the Coderoces website, as well as on other sites, and also independently created websites. Other then that here is the project, i have been working on: 
@@ -67,3 +75,5 @@ I know English at B1 level, but I am working on improving it to good conversatio
     <a href="https://rs.school/js-en"><img style="border:0;" alt="Javascript/Front-end  (in English)" src="https://miro.medium.com/max/280/1*v3KpRHTsdIK_91OB8C1jPw.png"></a>
   </p>
   </footer>
+
+  </html>
